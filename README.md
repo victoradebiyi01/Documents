@@ -2,7 +2,7 @@
 
 ### Project Overview
 
-This report analyzes the academic performance of **2,392 students** at **Ewakangbon Grammar School** to identify the major factors influencing student success and provide data-driven recommendations for improving educational outcomes. 
+This report analyzes the academic performance of **2,392 students** at **Fountain of Knowledge Grammar School** to identify the major factors influencing student success and provide data-driven recommendations for improving educational outcomes. 
 
 ### Data Source
 
