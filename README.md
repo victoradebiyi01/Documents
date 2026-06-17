@@ -51,6 +51,8 @@ The analysis findings are summarized as follows:
 3. High absenteeism was strongly associated with poor academic performance.
 4. Students involved in extracurricular activities generally had better grades and lower absence rates.
 
+<img width="1065" height="644" alt="image" src="https://github.com/user-attachments/assets/0cee4eca-47f6-4f8f-8de5-b859f749d8b8" />
+
 ### Recommendations
 
 - Expanding tutoring programs, especially for students with low study hours or limited parental support.
